@@ -43,7 +43,7 @@ I'm a passionate Front-End Developer
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/moamenomar" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href = "https://t.me/est_moamen?start=<5285892882:AAHeo8lUAk7jIuD2wXNLmdu43dTqPbPmdPU>" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
-<a href = "https://wa.me/+201144944981" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/whatsapp.png"/></a> 
+<a href="https://www.linkedin.com/in/moamenomar" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+<a href="https://t.me/est_moamen?start=<5285892882:AAHeo8lUAk7jIuD2wXNLmdu43dTqPbPmdPU>" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
+<a href="https://wa.me/+201144944981" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/whatsapp.png"/></a> 
 </p>
