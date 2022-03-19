@@ -5,7 +5,12 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate Front-End Developer
+<ul>
+  <li>👀 I’m interested in ...Writing code for website and app development</li>
+  <li>🌱 I’m currently learning ...programming</li>
+  <li>💞️ I’m looking to collaborate on ...web development and app</li>
+  <li>📫 How to reach me ...email <a href="moamen.ismail70@gmail.com">moamen.ismail70@gmail.com</a></li>
+</ul>
 
 
 ## 🚀 Languages and Tools:
