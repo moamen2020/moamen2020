@@ -34,6 +34,8 @@ Welcome to my GitHub profile!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moamen2020&layout=compact)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moamen2020&show_icons=true&locale=en" alt="moamen2020" /></p>
+
 <br/>
 <br/>
 
