@@ -1,3 +1,4 @@
+<!-- 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moamen Omar</h1>
 
 [![MasterHead](https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)](https://rishavchanda.io)
@@ -40,6 +41,8 @@ Welcome to my GitHub profile!
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/moamenomar" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+   -->
+  
 <!-- <a href="https://t.me/est_moamen?start=<5285892882:AAHeo8lUAk7jIuD2wXNLmdu43dTqPbPmdPU>" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/telegram-app.png"/></a>
 <a href="https://wa.me/+201144944981" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/whatsapp.png"/></a>  -->
 </p>
